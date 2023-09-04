@@ -69,3 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # expenseTracker
+
+Demonstration : 
+
+![Capture d'écran 2023-09-04 202931](https://github.com/houssam15/expenseTracker/assets/72769497/b0c4c3b9-c893-467f-81bf-dffc22a6cddd)
+
